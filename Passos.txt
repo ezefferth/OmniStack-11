@@ -1,0 +1,9 @@
+pasta BackEnd
+
+npm install -y
+	criando package.json
+
+na pasta backend
+npm install express
+	framework para rotas do app
+
